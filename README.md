@@ -1,4 +1,7 @@
 # Plex Music Player
+
+Fork mainly by redspike, I just made a couple changes that got it working on my setup.
+
 This fork allows you to host the code on your own server rather than through heroku.
 
 Just copy the code for the apache conf to a virtual host on your server
